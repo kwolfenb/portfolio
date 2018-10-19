@@ -1,0 +1,91 @@
+body{
+  background-color: #e6e9ef;
+}
+.jumbotron{
+  text-align: center;
+  border: 3px solid #aab7b9;
+  padding: 15px;
+  background-color: white;
+  margin-top: 10px;
+}
+.jumbotron p{
+  font-family: monospace;
+  font-size: 14px;
+}
+img{
+  height: 120px;
+  width: 120px;
+}
+.intro{
+  line-height: 1.5;
+  text-align: left;
+  margin-bottom: 32px;
+  margin-top: 32px;
+  font-size: 16px;
+}
+.intro li{
+  line-height: 2.5;
+  font-size: 15px;
+}
+
+.projects .panel-title{
+  font-family: monospace;
+  font-size: 18px;
+}
+.projects h5{
+  text-align: center;
+  background-color: #e1ffbc;
+  width: 25%;
+  margin-left:auto;
+  margin-right: auto;
+}
+.panel-body p{
+  font-weight: bold;
+}
+.panel{
+  width: 99%;
+  height: 300px;
+}
+.panel-img{
+  float: right;
+  width: 70px;
+  height: 70px;
+  border-radius: 5px;
+}
+h4{
+  margin-bottom: 20px;
+  margin-top: 32px;
+}
+.about h4{
+  color: #121a66;
+}
+
+.aboutme {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 15px;
+}
+.well#section2{
+  background-color: #dbe9ff;
+}
+.contact h4{
+  color: #296d42;
+}
+.contact ul{
+  list-style-type: square;
+}
+.contact .well{
+  background-color: #d7f2bf;
+  width: 40%;
+  border: 2px solid green;
+}
+hr{
+  margin-top: 35px;
+  margin-bottom: 25px;
+  width: 85%;
+  border-color: gray;
+}
+a{
+  color: inherit;
+  text-decoration: underline;
+}
